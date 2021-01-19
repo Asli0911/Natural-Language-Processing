@@ -8,5 +8,6 @@ First, I extracted useful information from the Review Text variable using text m
 
 In this project, I built sentiment classification models using algorithms Logistic Regression, Naive Bayes, Support Vector Machine, Random Forest, and Ada Boosting.
 
-Additionally, I used K-Nearest Neighbor, Random Forest, XGBoost, and Decision Tree Clasification models on some of the numeric features and received some exciting scores. Maybe sometimes numbers tell more than words:)    
+Additionally, I used K-Nearest Neighbor, Random Forest, XGBoost, and Decision Tree Clasification models on some of the numeric features and received some exciting scores. Maybe sometimes numbers tell more than words:)  
+
 What do you think?
